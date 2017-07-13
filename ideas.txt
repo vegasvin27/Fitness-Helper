@@ -1,1 +1,15 @@
 When contributing to the project, please be sure to also update the ideas file as frequently as possible. - TabiasP
+
+	
+
+	Top of webpage:
+
+	--Form/form controls
+		-login information (username, password)
+		-"login" button
+	
+	--"Welcome to Fitness Helper" title with design
+
+	--User information is displayed in center of page or on a side panel?
+		-Name, Age, Height, Weight, etc...
+		
